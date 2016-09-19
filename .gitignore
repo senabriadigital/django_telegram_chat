@@ -1,0 +1,10 @@
+*.pyc
+.DS*
+*.log
+__pycache__/
+.settings/
+.idea/
+.project
+.pydevproject
+.vagrant
+Vagrantfile
